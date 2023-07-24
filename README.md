@@ -1,1 +1,1 @@
-# Weather-App
+Use a clean and uncluttered layout with minimal visual distractions. Avoid overcrowding the screen with unnecessary elements. Integrates the OpenWeatherMap API, utilizing its endpoints to fetch real-time weather data. Test cases will include various locations, weather conditions, and edge cases to validate the reliability of the weather detection.
